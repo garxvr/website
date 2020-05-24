@@ -4,3 +4,28 @@
 .nav-menu {
   text-align: right;
 }
+.header-align {
+  text-align: center; margin: 0 0 80px;
+}
+.beauty-center-align {
+  width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+#moby_dick_pic {
+  float: left; margin-right: 40px;
+}
+.quote_block {
+  font-style: italic; font-size: 20px;
+}
+#highlight_ismael {
+  font-style: normal; font-size: 24px; font-weight: bold;
+  color: blue;
+}
+td {
+  padding: 5px;
+}
+tr {
+  padding: 6px;
+}
+table {
+  margin: 10px auto; border: 1px solid black;
+}
